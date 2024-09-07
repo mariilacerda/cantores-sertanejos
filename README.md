@@ -39,7 +39,7 @@ Se você quiser contribuir para este projeto ou adaptá-lo para suas próprias n
 
 ---
 
-**[Mariana Lacerda- Cantores sertnejos]**
+**Mariana Lacerda- Cantores sertanejos**
 
 **https://cantoressertanejos.vercel.app/**
 
