@@ -1,4 +1,4 @@
-## **README.md - Buscador de Cantores Sertanejos**
+## **README.md - Buscador de Cantores Sertanejos** Imersão DEV com Google Gemini
 
 ### **O que faz essa aplicação?**
 
